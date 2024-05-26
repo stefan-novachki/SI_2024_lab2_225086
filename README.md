@@ -4,7 +4,7 @@
 
 ### Control Flow Graph
 
-![CFG drawio (3)](https://github.com/stefan-novachki/SI_2024_lab2_225086/assets/51519497/c842ca7b-51ba-4c5b-9693-a376ff4424dc)
+![CFG drawio (5)](https://github.com/stefan-novachki/SI_2024_lab2_225086/assets/51519497/9bc0ccc0-db86-4262-9017-41e698caa82c)
 
 ### Цикломатска комплексност 
 
